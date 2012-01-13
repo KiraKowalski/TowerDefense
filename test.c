@@ -8,6 +8,6 @@
 #include<stdio.h>
 int main() {
 	int a=5,b=1243;
-	printf("\n %d\n%d",a,b);
+	printf("\n Kira said YEAH");
 	return 0;
 }
